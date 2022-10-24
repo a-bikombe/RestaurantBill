@@ -10,14 +10,6 @@ Calculates the tax and tip on a meal and displays results.
 
 ## Getting Started
 
-### Dependencies
-
-- Windows 10
-
-### Setup
-
-* Deployment: CLI
-
 ## Version History
 
 * 0.1
